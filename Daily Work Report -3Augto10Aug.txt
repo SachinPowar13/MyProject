@@ -1,0 +1,28 @@
+3rd Aug 2020 :
+1. Working on IT Asset Inventory.
+2. IT Stock - Checking Battery & Charger repaired Laptop's (Qty=5).
+3. Rhel-8 VM Create for Airtel Project.
+
+4th Aug :
+1. Tanushree Saha - Timesheet issue.
+2. Mansi Govil - MS Office License Activation Error.
+3. Rajkumar M - Laptop charging issue.
+4. Sagar Arora - Laptop FAN issue.
+
+5th Aug :
+1. Aniket Jadhav - Windows Update issue.
+2. Subodh Kumar - Laptop repaired & replce.
+3. Sonia Rawat - Laptop Repaired & replace.
+4. Rahul Kumar - Laptop repaired.
+5. Joseph Edwin - Laptop Ready with All Softwares.
+6. Wassem Ahmed - Laptop Keyboard issue.
+
+6th Aug:
+1. Kamlesh G. - Windows License Activation issue.
+2. Laptop Ready with All Software (Qty=1).
+3. Working On IT-Asset Inventory.
+
+7
+1. Priti B - MS Office License issue.
+2. SDWAN Project - Ubuntu Server Creation,Apache,PHP,DB installation,Code deployment etc on Local.
+3. IT Stock - 1 Laptop ready with all Softwares.
